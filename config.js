@@ -1,8 +1,8 @@
 const CONFIG = {
 
-    titleWeb: "Gửi đến người yêu",
+    titleWeb: "Gửi người yêu",
 
-    introTitle: 'Tên người yêu bạn',
+    introTitle: 'Đinh Khả My',
 
     introDesc: `Trái đất vốn lạ thường
 
@@ -30,8 +30,15 @@ const CONFIG = {
 
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
 
-    messDesc: 'Thế nên đừng giận nữa mà😥😓.',
+    messDesc: 'Đừng dỗi nữa mà 😥😓',
 
-    btnAccept: 'Ừm không giận nữa :33',
-
+    btnAccept: 'Ừm không dỗi nữa ',
 }
+    
+
+
+
+    
+
+    
+
