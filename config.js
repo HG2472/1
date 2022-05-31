@@ -2,7 +2,7 @@ const CONFIG = {
 
     titleWeb: "Gửi người yêu",
 
-    introTitle: 'Đinh Khả My',
+    introTitle: 'Đinh Khả My .',
 
     introDesc: `Trái đất vốn lạ thường
 
