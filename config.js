@@ -1,38 +1,39 @@
 const CONFIG = {
 
-    titleWeb: "Gửi người yêu",
+    titleWeb: "Gửi bạn thân",
 
-    introTitle: 'Đinh Khả My .',
+    introTitle: 'Gửi đến người bạn thân của tao',
 
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `Trái đất vốn hình cầu
 
-    Mà sao em cứ đi nhầm đường
+    Mày vốn là bạn thân tao
 
-    Lạc vào tim anh lẻ loi
+    thế nên tao có điều muốn nói
 
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ bạn là chữ bè`,
 
     btnIntro: '^^HiHi^^',
 
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    title: 'Phải chăng mày vẫn còn tiền😀',
 
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Thế nên cho tao mượn 20 chục ngàn Việt Nam đồng đi mà ',
 
-    btnYes: 'Thích lắm <33',
+    btnYes: 'Ok luôn bạn ey',
 
-    btnNo: 'Không nha:3',
+    btnNo: 'Không nha mậy,có cái nịt',
 
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao mày lại cho tao mượn tiền?',
 
-    btnReply: 'Gửi cho bạn  <3',
+    btnReply: 'Gửi cho bạn ',
 
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Vì mày là bạn thân tao nên cho mượn thôi,khỏi trả cũng được. ',
 
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    mess: 'Tao biết mà mày đúng là bạn của tao',
 
-    messDesc: 'Đừng dỗi nữa mà 😥😓',
+    messDesc: 'Mai đi đá banh nhớ cho tao mượn 2 chục ngàn Việt Nam đồng đấy.',
 
-    btnAccept: 'Ừm không dỗi nữa ',
+    btnAccept: 'Ok luôn,biết rồi không phải nhắc.',
+
 }
     
 
