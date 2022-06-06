@@ -1,6 +1,6 @@
 const CONFIG = {
 
-    titleWeb: "Gửi bạn thân",
+    titleWeb: "Gửi bạn thân.",
 
     introTitle: 'Gửi đến người bạn thân của tao',
 
