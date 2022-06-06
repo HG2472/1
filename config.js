@@ -2,7 +2,7 @@ const CONFIG = {
 
     titleWeb: "Gửi bạn thân.",
 
-    introTitle: 'Gửi đến người bạn thân của tao',
+    introTitle: 'Gửi đến người bạn thân của tao.',
 
     introDesc: `Trái đất vốn hình cầu
 
